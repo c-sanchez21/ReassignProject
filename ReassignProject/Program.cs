@@ -11,6 +11,7 @@ namespace ReassignProject
         static void Main(string[] args)
         {
             Console.WriteLine("Test");
+            Console.WriteLine("Sync Test");
         }
     }
 }
