@@ -13,6 +13,7 @@ namespace ReassignProject
             Console.WriteLine("Test");
             Console.WriteLine("Sync Test");
             Console.WriteLine("Test 2");
+            Console.WriteLine("Test 3");
         }
     }
 }
